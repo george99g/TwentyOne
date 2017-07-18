@@ -1,0 +1,9 @@
+D:\Projects\@discord\TwentyOne\TwentyOne\bin\Debug\netcoreapp1.1\TwentyOne.deps.json
+D:\Projects\@discord\TwentyOne\TwentyOne\bin\Debug\netcoreapp1.1\TwentyOne.runtimeconfig.json
+D:\Projects\@discord\TwentyOne\TwentyOne\bin\Debug\netcoreapp1.1\TwentyOne.runtimeconfig.dev.json
+D:\Projects\@discord\TwentyOne\TwentyOne\bin\Debug\netcoreapp1.1\TwentyOne.dll
+D:\Projects\@discord\TwentyOne\TwentyOne\obj\Debug\netcoreapp1.1\TwentyOne.csprojResolveAssemblyReference.cache
+D:\Projects\@discord\TwentyOne\TwentyOne\obj\Debug\netcoreapp1.1\TwentyOne.AssemblyInfo.cs
+D:\Projects\@discord\TwentyOne\TwentyOne\bin\Debug\netcoreapp1.1\TwentyOne.pdb
+D:\Projects\@discord\TwentyOne\TwentyOne\obj\Debug\netcoreapp1.1\TwentyOne.dll
+D:\Projects\@discord\TwentyOne\TwentyOne\obj\Debug\netcoreapp1.1\TwentyOne.pdb
